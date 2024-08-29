@@ -1,0 +1,140 @@
+= Campaign
+
+== Introduction
+Picture a scenic valley, rich in natural resources and history, lays nestled in between steep mountains and an unexplored and wild ocean.
+Twenty years ago, the False Hydra ravaged its entirety.
+Everyone who didn't go mad or vanished without a trace fled to the single mountain pass connecting the region.
+Some towns were purposely burned down, some were abandoned before the Hydra even came.
+Bandits prayed upon the refugees, carrying all their worldly possessions with them.
+Towns, Mines, forests and fields lay empty and barren.
+
+In the paranoia and the confusion, people only agreed on one fact:
+The Hydra needed people to stay alive.
+So the pass was magically sealed and a large harbor fortress erected.
+With the only two known connections closely guarded, time was left to run its course.
+
+Many left.
+The new border region, supported mostly by the rich lands now sealed off, could not support everyone.
+Some stayed, to wait, to guard the pass, sometimes to find another way back in.
+As far as we know, no attempt succeeded.
+
+Stories about the catastrophe and its cause grew and changed over the years.
+Night Air leaking out from the ground, vengeful elves poisoning the wells to reclaim their lands, or fairy abductions were just a couple of rumors peddled by commoners and provocateurs alike.
+But the most popular theory by far was the one of the False Hydra, a creature unseen and unheard, feasting upon the sanity of entire towns.
+
+Today, after what seems like an eternity, the seal unravels.
+An uneasy expedition crosses the mountain pass for the first time in twenty years.
+After a decade of meticulous planning, they are prepared to face every conceivable scenario.
+And yet, after a decade of bickering, they are equally well prepared to fall apart at the first sign of trouble.
+
+
+== Characters
+
+The following lists and tables should help you to get an idea for the setting and provide inspiration for your character's background and motivation.
+
+It should quickly become obvious that
+anyone who dares to enter this cursed valley is at least a little bit unhinged.
+Greed, hubris, reckless curiosity or just plain naivety aren't just good reasons to be here—they are a requirement!
+While the risk of death for your character may be quite high, we want to focus on the bright, maybe even comedic side of this.
+Ravel in the insanity of their overambitious minds, let them fly close to the sun, and feel glad about the change of pace when they inevitably fall to their doom.
+As deadly as the valley might be, as big are the throngs of foolhardy adventures pressing into the bountiful region.
+
+Expect to find exciting and incalculable risks like these:
+
+* With no existing power structures, how do the different *fractions* control their range of influence?
+* Did truly *everyone* leave before the region was sealed?
+* Was it right to assume that the *coast* was too steep and the shoals too capricious to allow anyone to land at the coast before the twenty years were over?
+* What happens to an *ecology*, dominated by man and its magic, when left to its own devices?
+* And last but not least: What remains of the *Hydra*, if it ever existed at all?
+
+.Table Character Backgrounds
+|===
+| Name | Motivation | Description | Variants
+
+| Convict
+| Closure
+| You tried to get back in, to find your missing relatives, to retrieve what was yours. After twenty years of unjust imprisonment, you finally get the chance to make you peace.
+There might not be much left, but at least you know exactly where to look for.
+| 
+
+| Surgeon
+| Ambition, Exploration
+| Any expedition needs some kind of medical support, and you are the best of your class.
+Relying on a priest in a godforsaken land is almost as foolish as believing in the Hydra.
+You are a man of science, and you intend to lead the settlers into the Age of Enlightenment.
+Any hysteria has a natural reason, and you are bent on find out what actually happened.
+Maybe this power can be used for good?
+| 
+
+| Archeologist
+| Exploration
+| 
+| 
+
+| Noble
+| Restoration
+| You somehow escaped with a smattering of you fortune, but your title, your lands and you mines were left behind. With your funds drawing low after 20 years in exile, you are adamant to take what is rightfully yours.
+| Your father only left you a deed and some old documents, but you promised him on his deathbed that you would restore your family to its former glory.
+
+| Bandit
+| Treasure
+| Riches beyond your wildest dreams, stacked high on the backs of mules and fleeing people alike.
+You chose to help you fellow men and lift their burden.
+Most did not make it anyways.
+But you cannot help but wonder: Which treasures were left behind?
+| You were the last one to leave town.
+Multiple times! Who would consider taking abandoned property to be stealing?
+You escaped within an inch of your life, but the sight of untold riches, too much to carry it all, stayed with you.
+It is time to return.
+
+| A New Start
+| A Simple Plan, Religion
+| You barely made it to the pass in time for the first expedition.
+Truly a once in a lifetime opportunity:
+To leave your old life behind, to start anew, but without the risk of high seas and unexplored lands.
+The bed is already made for you, now you only have to find it…
+| Not everyone has been as… accepting of your new religion as you originally hoped.
+You never expected a huge following as your messianic powers are still developing.
+But you certainly did not expect to attract this much attention.
+Maybe this is the right time for a promised land?
+
+| Bearer of the Torch
+| Zealot
+| You studied the Hydra. You knew how to beat it. You torched the graineries when everyone left, and you knew that this was enough.
+_Twenty years!_ But _one_ would have sufficed. Over the din of ignorance and terror, the voice of reason could not be heared.
+But this is all in the past. You have sworn an oath, and now only one task remains:
+Cull Her children, torch Her sapplings, end Her bloodline. Once and for all.
+| After twenty years of mourning, after twenty years of injustice, after twenty years in hiding, the stars align once again.
+There will be no mistakes this time.
+The Queen is dead, but the princess survived.
+And she needs your guidance…
+
+| Merchant
+| Business
+| In every tragedy, there is opportunity.
+A business opportunity, to be precise.
+An opportunity no one in their right mind would ever pass up.
+Expeditions need gear, settlers need farming equipment, people need food.
+Why am I the only one that realizes this?
+|===
+
+
+.Table A Way To Get In
+|===
+| Means | Description | Jobs
+
+| Expedition
+| You are part of the first expedition, only a small foray to establish a couple of outposts and to make sure the region is safe once more.
+| Guard, Handyman, Bematist, Doctor, Hunter, Builder, Settler, Scout.
+
+| Rouge Adventure
+| With the seal broken and officials distracted by the expedition, formerly closed pathways open up.
+Although risky, with the unofficial nature of your venture comes one advantages:
+Unimpeded by laws or plans of expedition leaders you did not choose, you are free to follow your own ambition.
+But maybe do not expect to make it back to the homelands all too soon.
+| Adventurer, Pirate, Renegade, Delinquent, Prospector, Mountaineer
+
+| Baggage Train
+| With the first outpost established, the demand for supplies and workforce rises, and more and more people are allowed in. You can help, and maybe find a small fortune among the abandoned homesteads.
+| Merchant, Smuggler, Farmer, Carpenter, Lumberjack, Forager, Teacher.
+|===
