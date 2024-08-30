@@ -2,14 +2,14 @@
 
 == Introduction
 Picture a scenic valley, rich in natural resources and history, lays nestled in between steep mountains and an unexplored and wild ocean.
-Twenty years ago, the False Hydra ravaged its entirety.
+Twenty years ago, the False Sylph ravaged its entirety.
 Everyone who didn't go mad or vanished without a trace fled to the single mountain pass connecting the region.
-Some towns were purposely burned down, some were abandoned before the Hydra even came.
+Some towns were purposely burned down, some were abandoned before the Sylph ever came.
 Bandits prayed upon the refugees, carrying all their worldly possessions with them.
 Towns, Mines, forests and fields lay empty and barren.
 
 In the paranoia and the confusion, people only agreed on one fact:
-The Hydra needed people to stay alive.
+The Sylph needed people to stay alive.
 So the pass was magically sealed and a large harbor fortress erected.
 With the only two known connections closely guarded, time was left to run its course.
 
@@ -20,7 +20,7 @@ As far as we know, no attempt succeeded.
 
 Stories about the catastrophe and its cause grew and changed over the years.
 Night Air leaking out from the ground, vengeful elves poisoning the wells to reclaim their lands, or fairy abductions were just a couple of rumors peddled by commoners and provocateurs alike.
-But the most popular theory by far was the one of the False Hydra, a creature unseen and unheard, feasting upon the sanity of entire towns.
+But the most popular theory by far was the one of the False Sylph, a creature unseen and unheard, feasting upon the sanity of entire towns.
 
 Today, after what seems like an eternity, the seal unravels.
 An uneasy expedition crosses the mountain pass for the first time in twenty years.
@@ -45,11 +45,11 @@ Expect to find exciting and incalculable risks like these:
 * Did truly *everyone* leave before the region was sealed?
 * Was it right to assume that the *coast* was too steep and the shoals too capricious to allow anyone to land at the coast before the twenty years were over?
 * What happens to an *ecology*, dominated by man and its magic, when left to its own devices?
-* And last but not least: What remains of the *Hydra*, if it ever existed at all?
+* And last but not least: What remains of the *Sylph*, if it ever existed at all?
 
 .Table Character Backgrounds
 |===
-| Name | Motivation | Description | Variants
+| Name | Motivation | Description | Variant
 
 | Convict
 | Closure
@@ -60,15 +60,22 @@ There might not be much left, but at least you know exactly where to look for.
 | Surgeon
 | Ambition, Exploration
 | Any expedition needs some kind of medical support, and you are the best of your class.
-Relying on a priest in a godforsaken land is almost as foolish as believing in the Hydra.
+Relying on a priest in a godforsaken land is almost as foolish as believing in the Sylph.
 You are a man of science, and you intend to lead the settlers into the Age of Enlightenment.
-Any hysteria has a natural reason, and you are bent on find out what actually happened.
+Any hysteria has a natural, underlying reason, and you are bent on find out what actually happened.
 Maybe this power can be used for good?
-| 
+| You were never the religious type, but after you failed your medical exam twice, you took up a trick or two from an occult manual.
+And you found out that you were quite good at it.
+The cognitive dissonance between your words and your actions irks you to this day, and you are looking for a way out.
+Oh, and there is also the small problem of repaying your blood debt to your Patron.
+Any opportunity to make your fortune, settle down, and stop practicing “medicine” would be very welcome indeed.
 
 | Archeologist
 | Exploration
-| 
+| Untouched ruins are hard to find nowadays, but an untouched region is truly unheard of!
+Twenty years might not be considered “archeological” by some, but funding is impossible to get anyway.
+And when you heard reports about what in particular was left behind, the choice to leave your struggling university department was not a hard one.
+Maybe you will finally find enough, both in historical significance and monetary value, to get tenure?
 | 
 
 | Noble
@@ -100,22 +107,23 @@ Maybe this is the right time for a promised land?
 
 | Bearer of the Torch
 | Zealot
-| You studied the Hydra. You knew how to beat it. You torched the graineries when everyone left, and you knew that this was enough.
-_Twenty years!_ But _one_ would have sufficed. Over the din of ignorance and terror, the voice of reason could not be heared.
+| You studied the Sylph. You knew how to beat it. You torched the granaries when everyone left, and you knew that this was enough.
+_Twenty years!_ But _one_ would have sufficed. Over the din of ignorance and terror, the voice of reason could not be heard.
 But this is all in the past. You have sworn an oath, and now only one task remains:
-Cull Her children, torch Her sapplings, end Her bloodline. Once and for all.
+Cull Her children, torch Her saplings, end Her bloodline. Once and for all.
 | After twenty years of mourning, after twenty years of injustice, after twenty years in hiding, the stars align once again.
 There will be no mistakes this time.
 The Queen is dead, but the princess survived.
 And she needs your guidance…
 
 | Merchant
-| Business
+| Naïve Greed
 | In every tragedy, there is opportunity.
 A business opportunity, to be precise.
 An opportunity no one in their right mind would ever pass up.
 Expeditions need gear, settlers need farming equipment, people need food.
 Why am I the only one that realizes this?
+| 
 |===
 
 
