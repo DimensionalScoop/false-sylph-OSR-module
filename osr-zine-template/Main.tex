@@ -1,0 +1,34 @@
+% ltex: language=en-US
+
+% NOTE:
+%   To modify the overall styling/formatting, make changes to zine.cls
+%
+\documentclass{zine} 
+
+\usepackage{kantlipsum} % For generating dummy text. Remove in your document
+\usepackage{tabularx}
+\usepackage{booktabs}
+
+% NOTE:
+%   The zine.cls document class already includes a number of packages.
+%   You can check the zine.cls file to see what is already included.
+%
+
+% TITLE
+\author{\textit{Written by YOURNAME}}
+\renewcommand\zinetitle{Your Zine Title}
+
+\begin{document}
+
+%\fontsize{7pt}{7pt}\selectfont
+\maketitle
+\pagebreak
+
+\vspace{-4mm}
+\vspace{2mm} \hrule
+
+\input{campaign.tex}
+
+\end{document}
+
+
