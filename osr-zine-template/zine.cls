@@ -22,6 +22,18 @@
 \usepackage{hyperref}
 \usepackage[table]{xcolor}
 
+\usepackage{fourier-orns}
+\usepackage{adforn}
+
+
+
+\usepackage[
+	babel,
+	% expansion,
+	% tracking,
+	% kerning
+]{microtype}
+
 \usepackage{pifont}
 \usepackage[nf]{coelacanth}
 \usepackage[T1]{fontenc}
@@ -30,20 +42,23 @@
 \let\oldnormalfont\normalfont
 \def\normalfont{\oldnormalfont\mdseries}
 
+%\usepackage[cam,width=128mm,height=210mm,center]{crop}
 
-
-% Adjust the margins to fit each page on half of an A4 page
+% Margins for binding as a Din A5 printed on A4 pages
 \geometry{
-	paperwidth=148mm,
+	includeheadfoot,
+	% paperwidth=148mm,
+	% paperheight=210mm,
+	paperwidth=138mm,
 	paperheight=210mm,
 	inner=0.508cm, % Inner margin
 	outer=0.508cm, % Outer margin
 	top=5.08mm, % Top margin
 	bottom=5.08mm, % Bottom margin
 	footskip=0.508cm, % Space for the page number
-	showcrop,
-	showframe,
-	includeheadfoot,
+	heightrounded,
+	%showframe,
+	%showcrop
 }
 
 
@@ -51,7 +66,7 @@
 	topsep=0pt,
 	itemsep=0.04cm,
 	partopsep=1ex,
-	parsep=1ex
+	parsep=0.5ex
 }
 \setlist[itemize]{leftmargin=0.8cm} % this adjusts the left margin on lists, 
 % you might have to adjust this based on 
@@ -70,16 +85,15 @@
 {0pt}{8pt}{2pt}
 
 % Prevent breaking mid-word
-% \tolerance=1
+\tolerance=500
 \emergencystretch=1em
-% \hyphenpenalty=10000
-% \hbadness=10000
+\hyphenpenalty=100
 %
 % Give tables more padding
-%\renewcommand{\arraystretch}{1.3}
+\renewcommand{\arraystretch}{1.3}
 
 % Middle split size
-\setlength{\columnsep}{0.8cm}
+\setlength{\columnsep}{0.63cm}
 
 % Boxes with darkened background
 \newcommand{\colbox}[1]{ \noindent\colorbox{gray!25}{\parbox{0.93\linewidth}{#1}}\vspace{0.2cm}}
@@ -89,9 +103,14 @@
 \def\zinetitle{Your Zine Title}
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[LE,RO]{\hrulefill \quad \zinetitle \quad \hrulefill}
+\fancyhead[LE,RO]{\hrulefill \quad \zinetitle \quad \hrulefill \vspace{0.5mm}}
 \fancyfoot[C]{\hrulefill \quad \textbf{\thepage} \quad \hrulefill}
 
 % Metadata Formatting
-\title{\vspace{-2cm} \hrule \vspace{2mm} \textbf{\textit{\zinetitle}} \vspace{2mm} \hrule}
-\date{Last edit: \today}
+\title{\vspace{-2cm} \hrule \vspace{3mm} \textbf{\textit{\zinetitle}} \vspace{2mm} \hrule}
+%\date{Last edit: \today}
+
+% FLEURON END MARKS
+\newcommand{\fleuron}[1]{ {\center\huge\adforn{#1}\vfill} }
+\newcommand{\fleurontri}{ \fleuron{54}}
+\newcommand{\fleuronleaf}{ \fleuron{36}}
