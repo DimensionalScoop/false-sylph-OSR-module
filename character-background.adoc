@@ -47,84 +47,79 @@ Expect to find exciting and incalculable risks like these:
 * What happens to an *ecology*, dominated by man and its magic, when left to its own devices?
 * And last but not least: What remains of the *Sylph*, if it ever existed at all?
 
-.Table Character Backgrounds
-|===
-| Name | Motivation | Description | Variant
-
-| Convict
-| Closure
-| You tried to get back in, to find your missing relatives, to retrieve what was yours. After twenty years of unjust imprisonment, you finally get the chance to make you peace.
+=== Character Backgrounds
+Convict::
+*Motivation*: Closure +
+*Description*: You tried to get back in, to find your missing relatives, to retrieve what was yours. After twenty years of unjust imprisonment, you finally get the chance to make you peace.
 There might not be much left, but at least you know exactly where to look for.
-| 
 
-| Surgeon
-| Ambition, Exploration
-| Any expedition needs some kind of medical support, and you are the best of your class.
+
+
+Surgeon::
+*Motivation*: Ambition, Exploration +
+*Description*: Any expedition needs some kind of medical support, and you are the best of your class.
 Relying on a priest in a godforsaken land is almost as foolish as believing in the Sylph.
 You are a man of science, and you intend to lead the settlers into the Age of Enlightenment.
 Any hysteria has a natural, underlying reason, and you are bent on find out what actually happened.
-Maybe this power can be used for good?
-| You were never the religious type, but after you failed your medical exam twice, you took up a trick or two from an occult manual.
+Maybe this power can be used for good? +
+*Variant*: You were never the religious type, but after you failed your medical exam twice, you took up a trick or two from an occult manual.
 And you found out that you were quite good at it.
 The cognitive dissonance between your words and your actions irks you to this day, and you are looking for a way out.
 Oh, and there is also the small problem of repaying your blood debt to your Patron.
 Any opportunity to make your fortune, settle down, and stop practicing “medicine” would be very welcome indeed.
 
-| Archeologist
-| Exploration
-| Untouched ruins are hard to find nowadays, but an untouched region is truly unheard of!
+Archeologist::
+*Motivation*: Exploration +
+*Description*: Untouched ruins are hard to find nowadays, but an untouched region is truly unheard of!
 Twenty years might not be considered “archeological” by some, but funding is impossible to get anyway.
 And when you heard reports about what in particular was left behind, the choice to leave your struggling university department was not a hard one.
 Maybe you will finally find enough, both in historical significance and monetary value, to get tenure?
-| 
 
-| Noble
-| Restoration
-| You somehow escaped with a smattering of you fortune, but your title, your lands and you mines were left behind. With your funds drawing low after 20 years in exile, you are adamant to take what is rightfully yours.
-| Your father only left you a deed and some old documents, but you promised him on his deathbed that you would restore your family to its former glory.
+Noble::
+*Motivation*: Restoration +
+*Description*: You somehow escaped with a smattering of you fortune, but your title, your lands and you mines were left behind. With your funds drawing low after 20 years in exile, you are adamant to take what is rightfully yours. +
+*Variant*: Your father only left you a deed and some old documents, but you promised him on his deathbed that you would restore your family to its former glory.
 
-| Bandit
-| Treasure
-| Riches beyond your wildest dreams, stacked high on the backs of mules and fleeing people alike.
+Bandit::
+*Motivation*: Treasure +
+*Description*: Riches beyond your wildest dreams, stacked high on the backs of mules and fleeing people alike.
 You chose to help you fellow men and lift their burden.
 Most did not make it anyways.
-But you cannot help but wonder: Which treasures were left behind?
-| You were the last one to leave town.
+But you cannot help but wonder: Which treasures were left behind? +
+*Variant*: You were the last one to leave town.
 Multiple times! Who would consider taking abandoned property to be stealing?
 You escaped within an inch of your life, but the sight of untold riches, too much to carry it all, stayed with you.
 It is time to return.
 
-| A New Start
-| A Simple Plan, Religion
-| You barely made it to the pass in time for the first expedition.
+A New Start::
+*Motivation*: A Simple Plan, Religion +
+*Description*: You barely made it to the pass in time for the first expedition.
 Truly a once in a lifetime opportunity:
 To leave your old life behind, to start anew, but without the risk of high seas and unexplored lands.
-The bed is already made for you, now you only have to find it…
-| Not everyone has been as… accepting of your new religion as you originally hoped.
+The bed is already made for you, now you only have to find it… +
+*Variant*: Not everyone has been as… accepting of your new religion as you originally hoped.
 You never expected a huge following as your messianic powers are still developing.
 But you certainly did not expect to attract this much attention.
 Maybe this is the right time for a promised land?
 
-| Bearer of the Torch
-| Zealot
-| You studied the Sylph. You knew how to beat it. You torched the granaries when everyone left, and you knew that this was enough.
+Bearer of the Torch::
+*Motivation*: Zealot +
+*Description*: You studied the Sylph. You knew how to beat it. You torched the granaries when everyone left, and you knew that this was enough.
 _Twenty years!_ But _one_ would have sufficed. Over the din of ignorance and terror, the voice of reason could not be heard.
 But this is all in the past. You have sworn an oath, and now only one task remains:
-Cull Her children, torch Her saplings, end Her bloodline. Once and for all.
-| After twenty years of mourning, after twenty years of injustice, after twenty years in hiding, the stars align once again.
+Cull Her children, torch Her saplings, end Her bloodline. Once and for all. +
+*Variant*: After twenty years of mourning, after twenty years of injustice, after twenty years in hiding, the stars align once again.
 There will be no mistakes this time.
 The Queen is dead, but the princess survived.
 And she needs your guidance…
 
-| Merchant
-| Naïve Greed
-| In every tragedy, there is opportunity.
+Merchant::
+*Motivation*: Naïve Greed +
+*Description*: In every tragedy, there is opportunity.
 A business opportunity, to be precise.
 An opportunity no one in their right mind would ever pass up.
 Expeditions need gear, settlers need farming equipment, people need food.
 Why am I the only one that realizes this?
-| 
-|===
 
 
 .Table A Way To Get In
