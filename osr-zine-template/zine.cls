@@ -34,6 +34,7 @@
 	% kerning
 ]{microtype}
 
+
 \usepackage{pifont}
 \usepackage[nf]{coelacanth}
 \usepackage[T1]{fontenc}
@@ -49,7 +50,7 @@
 	includeheadfoot,
 	% paperwidth=148mm,
 	% paperheight=210mm,
-	paperwidth=138mm,
+	paperwidth=141mm,
 	paperheight=210mm,
 	inner=0.508cm, % Inner margin
 	outer=0.508cm, % Outer margin
@@ -63,10 +64,10 @@
 
 
 \setlist[itemize]{  % list spacings
-	topsep=0pt,
-	itemsep=0.04cm,
-	partopsep=1ex,
-	parsep=0.5ex
+	% topsep=0pt,
+	% itemsep=1em,
+	% partopsep=1ex,
+	%parsep=-0.5ex
 }
 \setlist[itemize]{leftmargin=0.8cm} % this adjusts the left margin on lists, 
 % you might have to adjust this based on 
@@ -78,7 +79,7 @@
 
 % spacings around sections and (sub-)subsections
 \titlespacing*{\section}
-{0pt}{0.4cm}{0.1cm}
+{0pt}{0.3cm}{0.1cm}
 \titlespacing*{\subsection}
 {0pt}{0.2cm}{0.2cm}
 \titlespacing*{\subsubsection}
@@ -90,7 +91,7 @@
 \hyphenpenalty=100
 %
 % Give tables more padding
-\renewcommand{\arraystretch}{1.3}
+% \renewcommand{\arraystretch}{1.3}
 
 % Middle split size
 \setlength{\columnsep}{0.63cm}
@@ -111,6 +112,6 @@
 %\date{Last edit: \today}
 
 % FLEURON END MARKS
-\newcommand{\fleuron}[1]{ {\center\huge\adforn{#1}\vfill} }
+\newcommand{\fleuron}[1]{ {\vfill\center\huge\adforn{#1}\vspace{0.8em}\vfill} }
 \newcommand{\fleurontri}{ \fleuron{54}}
 \newcommand{\fleuronleaf}{ \fleuron{36}}
